@@ -1,0 +1,24 @@
+{
+  "texture_data": {
+    "qgjuh:block2_side": {
+      "textures": "textures/blocks/brah"
+    },
+    "qgjuh:block1_down": {
+      "textures": "textures/blocks/brah"
+    },
+    "qgjuh:block2_up": {
+      "textures": "textures/blocks/brah"
+    },
+    "qgjuh:block1_up": {
+      "textures": "textures/blocks/brah"
+    },
+    "qgjuh:block1_side": {
+      "textures": "textures/blocks/brah"
+    },
+    "qgjuh:block2_down": {
+      "textures": "textures/blocks/brah"
+    }
+  },
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain"
+}

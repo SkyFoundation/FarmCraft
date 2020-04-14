@@ -1,0 +1,69 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "components": {
+      "netease:aabb": {
+        "clip": {
+          "max": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "collision": {
+          "max": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "minecraft:map_color": {
+        "color": "#000000"
+      },
+      "netease:pathable": {
+        "value": false
+      },
+      "minecraft:destroy_time": {
+        "value": 0.0
+      },
+      "netease:tier": {
+        "level": 0,
+        "destroy_special": false,
+        "digger": "pickaxe"
+      },
+      "netease:face_directional": {
+        "type": "direction"
+      },
+      "netease:solid": {
+        "value": true
+      },
+      "netease:render_layer": {
+        "value": "opaque"
+      },
+      "minecraft:explosion_resistance": {
+        "value": 0.0
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0
+      },
+      "minecraft:block_light_emission": {
+        "emission": 0.0
+      }
+    },
+    "description": {
+      "register_to_creative_menu": true,
+      "identifier": "qgjuh:block1"
+    }
+  }
+}

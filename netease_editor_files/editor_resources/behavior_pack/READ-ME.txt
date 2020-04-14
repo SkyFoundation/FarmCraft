@@ -1,0 +1,19 @@
+###################################################################################
+
+Behavior Packs are add-ons that will modify the various behaviors that make up an entity. Currently we only support modifying existing entities by adding, removing, or changing existing behaviors. 
+
+WARNING:
+		1. floder entities must be in this floder, and you can't remove it.
+		2. pack_manifest.json also must be in this floder, you can't remove it too.
+
+NOTIFYING:
+		1. pack_icon.jpg can be replaced. It is used for sign this addon's behavior.
+		2. pack_manifest.json need to modify something that is null, but is not necessary.
+		   But be careful, don't modify the existed thing. 
+		3. the specific entity.json should place in the entities floder
+
+Know More: https://minecraft.gamepedia.com/Tutorials/Creating_behavior_packs
+
+Good Luck!!!
+
+###################################################################################

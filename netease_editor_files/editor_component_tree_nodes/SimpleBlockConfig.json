@@ -1,0 +1,164 @@
+{
+    "dc06438e-a92a-44e3-ac7b-6879a616a49e": {
+        "simpleBlockCreateModeVisible": true,
+        "simpleBlockDig": {
+            "destroySpecial": false,
+            "loot": "",
+            "diggerLevel": 0,
+            "digger": "pickaxe",
+            "destroyTime": 0.0
+        },
+        "simpleBlockPortalTargetDimension": 3,
+        "uuid": "dc06438e-a92a-44e3-ac7b-6879a616a49e",
+        "simpleBlockName": "block1",
+        "simpleBlockSolid": true,
+        "simpleBlockER": 0.0,
+        "simpleBlockCollision": {
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "simpleBlockClip": {
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "simpleBlockType": 1,
+        "simpleBlockMobType": "minecraft:chicken",
+        "simpleBlockPortalEW": "minecraft:portal_east_west",
+        "simpleBlockNavi": true,
+        "simpleBlockRender": {
+            "mapColor": [
+                0,
+                0,
+                0
+            ],
+            "lightEmission": 0.0,
+            "lightAbsorption": 0,
+            "renderLayer": "opaque"
+        },
+        "simpleBlockSound": "stone",
+        "simpleBlockPortalDynamic": "portal",
+        "debut": true,
+        "needComp": [],
+        "simpleBlockShape": {
+            "blockShape": "facing_block",
+            "faceDirectional": "direction"
+        },
+        "simpleBlockLabel": "\u81ea\u5b9a\u4e49\u65b9\u57571",
+        "simpleBlockPortalNS": "minecraft:portal_north_south",
+        "simpleBlockTex": {
+            "simpleBlockTexL": true,
+            "simpleBlockTexS": "",
+            "simpleBlockTexW": "",
+            "simpleBlockTexB": "",
+            "simpleBlockTexE": "",
+            "simpleBlockTexSide": "",
+            "simpleBlockTexN": "",
+            "simpleBlockTexIsotropic": {
+                "east": false,
+                "up": false,
+                "west": false,
+                "south": false,
+                "down": false,
+                "north": false
+            },
+            "simpleBlockTexT": ""
+        }
+    },
+    "78676779-3d52-4fbf-a225-99b85bcca158": {
+        "simpleBlockCreateModeVisible": false,
+        "simpleBlockDig": {
+            "destroySpecial": false,
+            "loot": "",
+            "diggerLevel": 0,
+            "digger": "pickaxe",
+            "destroyTime": 0.0
+        },
+        "simpleBlockPortalTargetDimension": 3,
+        "uuid": "78676779-3d52-4fbf-a225-99b85bcca158",
+        "simpleBlockName": "block2",
+        "simpleBlockSolid": true,
+        "simpleBlockER": 0.0,
+        "simpleBlockCollision": {
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "simpleBlockClip": {
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "simpleBlockType": 1,
+        "simpleBlockMobType": "minecraft:chicken",
+        "simpleBlockPortalEW": "minecraft:portal_east_west",
+        "simpleBlockNavi": true,
+        "simpleBlockRender": {
+            "mapColor": [
+                0,
+                0,
+                0
+            ],
+            "lightEmission": 0.0,
+            "lightAbsorption": 0,
+            "renderLayer": "opaque"
+        },
+        "simpleBlockSound": "stone",
+        "simpleBlockPortalDynamic": "portal",
+        "debut": true,
+        "needComp": [],
+        "simpleBlockShape": {
+            "blockShape": "facing_block",
+            "faceDirectional": "direction"
+        },
+        "simpleBlockLabel": "\u81ea\u5b9a\u4e49\u65b9\u57572",
+        "simpleBlockPortalNS": "minecraft:portal_north_south",
+        "simpleBlockTex": {
+            "simpleBlockTexL": true,
+            "simpleBlockTexS": "",
+            "simpleBlockTexW": "",
+            "simpleBlockTexB": "",
+            "simpleBlockTexE": "",
+            "simpleBlockTexSide": "",
+            "simpleBlockTexN": "",
+            "simpleBlockTexIsotropic": {
+                "east": false,
+                "up": false,
+                "west": false,
+                "south": false,
+                "down": false,
+                "north": false
+            },
+            "simpleBlockTexT": ""
+        }
+    }
+}

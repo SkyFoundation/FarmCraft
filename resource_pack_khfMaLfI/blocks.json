@@ -1,0 +1,25 @@
+{
+  "qgjuh:block1": {
+    "blockshape": "facing_block",
+    "sound": "stone",
+    "textures": {
+      "up": "qgjuh:block1_up",
+      "down": "qgjuh:block1_down",
+      "side": "qgjuh:block1_side"
+    }
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "qgjuh:block2": {
+    "blockshape": "facing_block",
+    "sound": "stone",
+    "textures": {
+      "up": "qgjuh:block2_up",
+      "down": "qgjuh:block2_down",
+      "side": "qgjuh:block2_side"
+    }
+  }
+}

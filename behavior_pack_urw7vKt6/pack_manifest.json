@@ -1,0 +1,26 @@
+{
+    "dependencies": [],
+    "format_version": 1,
+    "header": {
+        "description": "农业工艺",
+        "name": "5803854456bf4f67a7b6a3338a0a7bec",
+        "uuid": "cbf3d450-1b1c-450a-b7f8-63360781aba1",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "8bdfa05b-ea66-426c-81a8-573e5792f500",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

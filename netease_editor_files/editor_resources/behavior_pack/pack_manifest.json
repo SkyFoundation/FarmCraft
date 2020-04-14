@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "",
+        "name": "",
+        "uuid": "",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "",
+            "version": [0, 0, 1]
+        }
+    ],
+	"dependencies" : []
+}
